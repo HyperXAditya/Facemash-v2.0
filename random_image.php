@@ -1,6 +1,6 @@
 <?php
 
-// Written by Cueburst (http://cueburst.com)
+
 
 error_reporting(E_ALL & ~E_NOTICE);
 
